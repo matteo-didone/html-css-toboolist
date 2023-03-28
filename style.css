@@ -5,3 +5,10 @@
 	padding: 0px;
 	box-Sizing: border-box;
 }
+
+/*Creo il mio font, che è molto simile a quello dell'immagine*/
+@font-face
+{
+    font-family: Monotype;
+    src: url("Tanseek\ Modern\ Pro\ Arabic\ Book.woff2");
+}
