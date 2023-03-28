@@ -47,7 +47,7 @@ main
     padding-top: 85px;
     padding-left: 300px;
     padding-right: 300px;
-    padding-bottom: 200px;
+    padding-bottom: 100px;
     background-color: rgba(255,255,255,255);
     font-size: xx-large;
 }
@@ -63,9 +63,42 @@ ul
     list-style-type: none;
 }
 
-.editorial 
+#add-task
 {
-    font-size: 12px;
-    color: white;
     background-color: rgba(71,173,241,255);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
+
+#add-section
+{
+    background-color: white; /* Green */
+    border: solid 1px #d0d6d9;
+    border-radius: 10px;
+    color: #d0d6d9;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.list-button 
+{
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
