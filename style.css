@@ -16,7 +16,21 @@
 
 #title 
 {
-    
+    width: 100%;
+    display: inline;
+}
+
+.vertical-align
+{
+    vertical-align: middle;
+}
+
+header
+{
+    align-items: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 30px;
 }
 
 
