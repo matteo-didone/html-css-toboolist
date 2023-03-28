@@ -1,3 +1,10 @@
+/*Creo il mio font, che è molto simile a quello dell'immagine*/
+@font-face
+{
+    font-family: Monotype;
+    src: url("Tanseek\ Modern\ Pro\ Arabic\ Book.woff2");
+}
+
 /*Reset dei valori di defualt */
 * 
 {
@@ -7,9 +14,10 @@
     font-family: Monotype, sans-serif; /*Scelgo sans-serif come font di riserva*/
 }
 
-/*Creo il mio font, che è molto simile a quello dell'immagine*/
-@font-face
+#title 
 {
-    font-family: Monotype;
-    src: url("Tanseek\ Modern\ Pro\ Arabic\ Book.woff2");
+    
 }
+
+
+
