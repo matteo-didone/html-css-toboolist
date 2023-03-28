@@ -4,6 +4,7 @@
 	margin: 0px;
 	padding: 0px;
 	box-Sizing: border-box;
+    font-family: Monotype, sans-serif; /*Scelgo sans-serif come font di riserva*/
 }
 
 /*Creo il mio font, che è molto simile a quello dell'immagine*/
