@@ -131,6 +131,23 @@ ul
     background-color: rgba(176,201,38,255);
 }
 
+.check-mark 
+{
+    color: rgba(168,221,211,255);
+    position: inline;
+    border-radius: 50%; /*Percentuale tipicamente usata per inscrivere un cerchio dentro altre figure geometriche*/
+    border: 2px solid rgba(168,221,211,255);
+    padding: 3px; /*Distanza tra bordo e testo*/
+}
+
+.cross
+{
+    color: rgba(231,60,52,255);
+    position: inline;
+    border-radius: 50%; /*Percentuale tipicamente usata per inscrivere un cerchio dentro altre figure geometriche*/
+    border: 2px solid rgba(231,60,52,255);
+    padding: 3px; /*Distanza tra bordo e testo*/
+}
 
 
 
