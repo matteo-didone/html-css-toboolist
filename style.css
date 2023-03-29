@@ -69,11 +69,11 @@ ul
     border: none;
     border-radius: 10px;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 30px;
 }
 
 #add-section
@@ -82,23 +82,55 @@ ul
     border: solid 1px #d0d6d9;
     border-radius: 10px;
     color: #d0d6d9;
-    padding: 15px 32px;
+    padding: 10px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 30px;
 }
 
 .list-button 
 {
     border: none;
-    border-radius: 10px;
+    border-radius: 40px;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 25px;
 }
+
+#editorial 
+{
+    background-color: rgba(61,169,233,255);
+}
+
+#q1-goals
+{
+    background-color: rgba(156,114,228,255);
+}
+
+#recruiting
+{
+    background-color: rgba(100,192,169,255);
+}
+
+#mobile
+{
+    background-color: rgba(242,158,51,255);
+}
+
+#website
+{
+    background-color: rgba(216,99,161,255);
+}
+
+#sales
+{
+    background-color: rgba(176,201,38,255);
+}
+
+
 
 
