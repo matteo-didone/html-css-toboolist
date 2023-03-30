@@ -42,21 +42,21 @@ body
 main
 {
     width: 65%;
-    margin: 2% auto;
+    margin: 20px auto;
     border-radius: 10px;
-    padding-top: 85px;
-    padding-left: 300px;
-    padding-right: 300px;
-    padding-bottom: 100px;
     background-color: rgba(255,255,255,255);
+    padding-left: 40px;
+    padding-bottom: 40px;
     font-size: xx-large;
     text-align: left;
+    line-height: 40px;
 }
 
 #task-and-section 
 {
-    background-color: rgba(255,255,255,255);
-    border-bottom: 3px solid rgba(246,248,249,255);
+    padding-top: 1rem;
+    border-bottom:  #f5f7f8 solid 2px;
+    padding-bottom: 1rem;
 }
 
 ul
@@ -140,6 +140,7 @@ ul
     border-radius: 50%; /*Percentuale tipicamente usata per inscrivere un cerchio dentro altre figure geometriche*/
     border: 2px solid rgba(168,221,211,255);
     padding: 3px; /*Distanza tra bordo e testo*/
+    font-size: small;
 }
 
 .cross
@@ -149,6 +150,7 @@ ul
     border-radius: 50%; /*Percentuale tipicamente usata per inscrivere un cerchio dentro altre figure geometriche*/
     border: 2px solid rgba(231,60,52,255);
     padding: 3px; /*Distanza tra bordo e testo*/
+    font-size: small;
 }
 
 .arrow-down
